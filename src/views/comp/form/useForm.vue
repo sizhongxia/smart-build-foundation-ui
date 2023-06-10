@@ -53,7 +53,7 @@
       component: 'NSelect',
       label: '类型',
       giProps: {
-        //span: 24,
+        span: 8,
       },
       componentProps: {
         placeholder: '请选择类型',
@@ -77,9 +77,9 @@
       component: 'NDatePicker',
       label: '预约时间',
       giProps: {
-        //span: 24,
+        span: 8,
       },
-      defaultValue: 1183135260000,
+      defaultValue: 1683135260000,
       componentProps: {
         type: 'date',
         clearable: true,
@@ -95,6 +95,7 @@
       giProps: {
         //span: 24,
       },
+      defaultValue: 1686409149000,
       componentProps: {
         clearable: true,
         onUpdateValue: (e: any) => {

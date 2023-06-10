@@ -37,6 +37,8 @@ export const LoginRoute: RouteRecordRaw = {
   },
 };
 
+// const routeModuleList: RouteRecordRaw[] = [];
+
 //需要验证权限
 export const asyncRoutes = [...routeModuleList];
 
