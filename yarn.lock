@@ -5335,10 +5335,10 @@ mute-stream@0.0.8:
   resolved "https://registry.npmmirror.com/mute-stream/-/mute-stream-0.0.8.tgz#1630c42b2251ff81e2a283de96a5497ea92e5e0d"
   integrity sha512-nnbWWOkoWyUsTjKrhgD0dcz22mdkSnpYqbEjIm2nhwhuxlSkpywJmBo8h0ZqJdkp73mb90SssHkN4rsRaBAfAA==
 
-naive-ui@^2.34.2:
-  version "2.34.2"
-  resolved "https://registry.npmmirror.com/naive-ui/-/naive-ui-2.34.2.tgz#0dad81d2fe28178d07de344688a0c027695247bc"
-  integrity sha512-JyvtVqHzS0O0DyPFFg95cJW0fp2WCEPsjXbeplkxFIfJHCgp5KC75PjnBycryegjPiZNLn9WlRDxXU5emEqRfg==
+naive-ui@^2.34.4:
+  version "2.34.4"
+  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.34.4.tgz#04cd71ef5c76c3f526af88a6c895a79467c89784"
+  integrity sha512-aPG8PDfhSzIzn/jSC9y3Jb3Pe2wHJ7F0cFV1EWlbImSrZECeUmoc+fIcOSWbizoztkKfaUAeKwYdMl09MKkj1g==
   dependencies:
     "@css-render/plugin-bem" "^0.15.10"
     "@css-render/vue3-ssr" "^0.15.10"
@@ -5357,7 +5357,7 @@ naive-ui@^2.34.2:
     treemate "^0.3.11"
     vdirs "^0.1.8"
     vooks "^0.2.12"
-    vueuc "^0.4.47"
+    vueuc "^0.4.51"
 
 nanoid@^3.1.30:
   version "3.1.30"
@@ -7180,10 +7180,10 @@ vuedraggable@^4.1.0:
   dependencies:
     sortablejs "1.14.0"
 
-vueuc@^0.4.47:
-  version "0.4.49"
-  resolved "https://registry.npmmirror.com/vueuc/-/vueuc-0.4.49.tgz#913e6fd629bdfd5bbed79bf108aec605720af2db"
-  integrity sha512-WarAC44a/Yx78CxkAgROYLq+LkAeCGA/6wHidVoFmHLbzyF3SiP2nzRNGD/8zJeJInXv18EnWK6A//eGgMMq8w==
+vueuc@^0.4.51:
+  version "0.4.51"
+  resolved "https://registry.yarnpkg.com/vueuc/-/vueuc-0.4.51.tgz#35cd5364db4b71fc791a9823748711b91d910d49"
+  integrity sha512-pLiMChM4f+W8czlIClGvGBYo656lc2Y0/mXFSCydcSmnCR1izlKPGMgiYBGjbY9FDkFG8a2HEVz7t0DNzBWbDw==
   dependencies:
     "@css-render/vue3-ssr" "^0.15.10"
     "@juggle/resize-observer" "^3.3.1"

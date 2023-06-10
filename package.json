@@ -1,10 +1,10 @@
 {
-  "name": "naive-ui-admin",
-  "version": "1.8.2",
+  "name": "smart-build-foundation-ui",
+  "version": "1.0.0",
   "author": {
-    "name": "Ahjung",
-    "email": "735878602@qq.com",
-    "url": "https://github.com/jekip/naive-ui-admin"
+    "name": "sizhongxia",
+    "email": "1217491317@qq.com",
+    "url": "https://github.com/sizhongxia/smart-build-foundation-ui"
   },
   "private": true,
   "scripts": {
@@ -41,7 +41,7 @@
     "lodash-es": "^4.17.21",
     "mitt": "^3.0.0",
     "mockjs": "^1.1.0",
-    "naive-ui": "^2.34.2",
+    "naive-ui": "^2.34.4",
     "pinia": "^2.0.23",
     "qs": "^6.11.0",
     "vfonts": "^0.0.3",
@@ -107,25 +107,16 @@
       "path": "./node_modules/cz-customizable"
     }
   },
-  "keywords": [
-    "vue",
-    "naive-ui",
-    "naive-ui-admin",
-    "vue3",
-    "ts",
-    "tsx",
-    "admin",
-    "typescript"
-  ],
+  "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jekip/naive-ui-admin.git"
+    "url": "git+https://github.com/sizhongxia/smart-build-foundation-ui.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jekip/naive-ui-admin/issues"
+    "url": "https://github.com/sizhongxia/smart-build-foundation-ui/issues"
   },
-  "homepage": "https://github.com/jekip/naive-ui-admin",
+  "homepage": "https://github.com/sizhongxia/smart-build-foundation-ui",
   "engines": {
     "node": "^12 || >=14"
   }
